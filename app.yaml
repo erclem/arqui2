@@ -1,0 +1,4 @@
+runtime: nodejs  
+env: flex  
+beta_settings:
+    cloud_sql_instances: prueba2-g2:us-east1:arqui2
